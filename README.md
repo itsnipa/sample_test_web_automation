@@ -31,10 +31,10 @@ This project uses the following dependencies:
 
 ### 🌐 Application under test
 * https://www.saucedemo.com/ <br/>
-  Note that this website is being used for testing purposes, and I, the tester, acknowledge that I do not own or have any rights to this website. 
-  Testing activities are for demo purposes only. I have tested on different modules in the website. I'm still working in this website.  This is just a version of my test.
-### 👨🏼‍🔬Tests
+  Note that this website is being used for testing purposes, and I, the tester, acknowledge that I do not own or have any rights to this website.Testing activities are for demo purposes 
+  only. I have tested on different modules in the website. I'm still working in this website.  This is just a version of my test.
 
+### 👨🏼‍🔬Tests
 This project contains 4 sample test cases that demonstrate how to use Selenium to interact with web pages. 
 
 #### 🧪 Test Cases
